@@ -4,6 +4,9 @@
 [![My Skills](https://skillicons.dev/icons?i=py,sklearn,tensorflow&perline=3)](https://skillicons.dev)
 
 ## HISTORIC DATA
+- Obtaining data from different sources (**UTE, Weather Spark**).
+- Data cleaning and preprocessing.
+- Dashboard creation with **Power BI**.
 ![Datos hisotricos](https://raw.githubusercontent.com/Taber76/files/main/energy_production.png "Historic data")
 ## MACHINE LEARNING
 ### STRATEGY
