@@ -7,7 +7,7 @@
 - Obtaining data from different sources (**UTE, Weather Spark**).
 - Data cleaning and preprocessing.
 - Dashboard creation with **Power BI**.
-![Datos hisotricos](https://raw.githubusercontent.com/Taber76/files/main/energy_production.png "Historic data")
+![Datos hisotricos](https://raw.githubusercontent.com/Taber76/Energy_Study/main/data/energy_production.png "Historic data")
 ## MACHINE LEARNING
 ### STRATEGY
 - Estimate future demand based on historical demand and macroeconomic data, using linear regression.
